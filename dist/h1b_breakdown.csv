@@ -1,0 +1,13 @@
+Country,Percent_country,,Occupations,Percent_occ,,Education,Percent_education,,Gender,Percent_gender,,Age,Percent_age
+India,72.30,,Computer-related,65,,Bachelor's Degree,33.90,,female,29.30,,Under 20,0
+China,11.70,,Engineering,9.50,,Master's Degree,22.20,,male,70.50%,,20-24,2.30%
+Philippines,1.20,,Education,6,,Doctorate Degree,8.00,,,,,25-29,21.10%
+Canada,1,,Adminstrative,5,,Professional Degree,3.50,,,,,30-34,33.00%
+South Korea,1,,Health,4.30,,Unknown,32,,,,,35-39,25.30%
+Mexico,0.70,,Physical Sciences,2.70,,,,,,,,40-44,12.70%
+,,,Life Sciences,1.90,,,,,,,,45-49,3.70%
+,,,Managerial,1.40,,,,,,,,50-54,1%
+,,,,,,,,,,,,55-59,0.30%
+,,,,,,,,,,,,60-64,0.10%
+,,,,,,,,,,,,65 and older,0%
+,,,,,,,,,,,,,
